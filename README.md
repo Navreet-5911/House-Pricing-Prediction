@@ -4,9 +4,7 @@ A simple project that predicts house prices using Linear Regression built from s
 
 ## Folder Structure
 - `src/`: Main code
-- `notebooks/`: Step-by-step notebook
 - `data/`: Dataset
-- `models/`: Saved model files
 - `assets/`: Images or plots for README
 
 ## Run the Code
