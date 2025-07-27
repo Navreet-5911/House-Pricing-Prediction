@@ -2,7 +2,7 @@
 
 A simple yet effective Machine Learning project that predicts house prices based on given features — built from scratch using core libraries and deployed using **Streamlit**.
 
-🔗 **Live Demo:** [Click here to try it out](https://house-price-predictor-m.streamlit.app)
+🔗 **Live Demo:** [Click here to try it out](https://house-price-predictor-ml.streamlit.app)
 
 ---
 
